@@ -109,10 +109,11 @@ a {
     text-align: center;
 }
 
-.col-12-analytics img {
+
+.rowanalytics .col-12 img {
     max-width: 100%;
-    padding: 3%;
 }
+
 
 
 /* Header */
