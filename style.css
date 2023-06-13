@@ -109,6 +109,11 @@ a {
     text-align: center;
 }
 
+.col-12-analytics img {
+    max-width: 100%;
+    padding: 3%;
+}
+
 
 /* Header */
 .navbar .logo img {
